@@ -37,7 +37,7 @@ As mostly the raw data are csv the input file is also a csv.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The thing is completed and give a plot of what we want.
+The plot generator is skeleton and it's objective is clearly set.
 
 But still **more improvement can be done**.
 
